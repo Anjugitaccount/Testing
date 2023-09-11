@@ -17,6 +17,8 @@ System.out.println("Enter the char value");
 char c=sc.next().charAt(0);
 
 
+
+
 	}
 
 }
