@@ -17,7 +17,7 @@ System.out.println("Enter the char value");
 char c=sc.next().charAt(0);
 
 
-
+System.out.println("Eclipse");
 
 	}
 
